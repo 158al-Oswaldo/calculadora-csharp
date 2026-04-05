@@ -1,2 +1,2 @@
-# calculadora-c-
+# calculadora-C#
 Calculadora feita no C# com a ferramenta Windows Forms
