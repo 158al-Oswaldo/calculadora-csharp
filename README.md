@@ -2,7 +2,6 @@
 
 [![C#](https://img.shields.io/badge/C%23-.NET-blue?logo=csharp&logoColor=white)]()
 [![Windows Forms](https://img.shields.io/badge/Windows%20Forms-Desktop-lightgrey?logo=windows)]()
-[![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)]()
 
 ---
 
